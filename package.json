@@ -1,0 +1,12 @@
+{
+  "name": "wabot-menfess",
+  "version": "1.0.0",
+  "description": "A simple landing page for Wabot Menfess.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
